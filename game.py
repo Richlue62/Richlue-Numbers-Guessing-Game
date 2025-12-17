@@ -8,6 +8,7 @@ answer = random.randint(lowest_num, highest_num)
 guesses = 0
 is_running = True
 
+print("Hello!!!")
 print("Welcome to Richlue Number Guessing Game")
 print(f"Select a number between {lowest_num} and {highest_num}")
 
